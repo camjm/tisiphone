@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "esnext", // i.e. async functions supported 
+        "watch": true, // regenerate JS when TS is saved
+        "lib": ["DOM", "ES2017"] // when building webapps, include DOM class library to be able to access native DOM classes without complication errors
+    }
+}
