@@ -16,3 +16,4 @@ typescript application
     * [express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
     * [express](https://auth0.com/blog/create-a-simple-and-secure-node-express-app/)
 * [VS Code: Node.js](https://code.visualstudio.com/docs/nodejs/working-with-javascript) 
+* [Deploy a Node.js app to Azure](https://learn.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app)
