@@ -7,7 +7,7 @@ typescript application
 * mongodb (atlas)
 * ~~frontend: angular (TypeScript)~~
 * ~~google material design~~
-* another frontend: aurelia? simple template engine?
+* another frontend: aurelia? simple template engine? WB react app!
 
 ### Resources
 * mean tutorials
