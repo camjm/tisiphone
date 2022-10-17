@@ -5,9 +5,7 @@ typescript application
 * hosted by Azure
 * backend: node.js (mean)
 * mongodb (atlas)
-* ~~frontend: angular (TypeScript)~~
-* ~~google material design~~
-* another frontend: aurelia? simple template engine? WB react app!
+* frontend: WB react app, tailwind
 
 ### Resources
 * mean tutorials
